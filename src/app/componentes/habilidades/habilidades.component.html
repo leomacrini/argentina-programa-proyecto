@@ -1,0 +1,8 @@
+<div><h3 class="habilidades-titulo">HABILIDADES</h3></div>
+<div class="row habilidades-conteiner" style="margin-left:250px ;">
+<div class="col-3 card habfondo" style="margin-right:15px;" *ngFor="let habilidades of lista">
+<h3>{{habilidades.lenguaje}} <img class="logo-hab"[src]="habilidades.logo" alt=""></h3>
+<h1>{{habilidades.porcentaje}}</h1>
+</div>
+</div>
+

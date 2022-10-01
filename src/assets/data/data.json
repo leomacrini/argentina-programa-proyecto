@@ -1,0 +1,65 @@
+{
+    "programa" : "ARGENTINA PROGRAMA #YO PROGRAMO",
+    "logo" : "assets/argprog.png",
+    "logoeditar" :"assets/icons8-services-25.png" ,
+    "textoboton":"EDITAR",
+    "redes": {
+    "instalogo":"assets/instagram-logo-24 (1).png",
+    "instalink":"https://www.instagram.com/leomacrini/",
+    "facelogo":"assets/facebook-logo-24.png",
+    "facelink":"https://www.facebook.com/profile.php?id=100077444604996",
+    "githublogo":"assets/github-logo-24.png",
+    "githublink":"https://github.com/leomacrini"
+   },
+
+    "nombre":"LEONARDO MACRINI",
+    "titulo":"FULL STACK DEVELOPER JUNIOR",
+    "sobremi":{
+    "estudio":"Estudie ingenieria en alimentos en la Universidad nacional de lujan hasta 3er año.",
+    "deporte":"Me gusta el deporte, trato de realizar actividad fisica cada vez que puedo.",
+    "autodidacta":"Me considero un programador autodidacta y estoy buscando profundizar los conocimientos y poder trabajar de ello."
+   },
+
+   "bannerimg":"assets/mountain-forest-under-beautiful-night-sky-with-stars.jpg",
+   "profileimg":"assets/pngtree-letter-l-logo-design-png-png-image_2935819.jpg",
+ 
+    "experiencia" : [{
+     "empresa":"Tecnosport Latinoamerica S.A",
+     "descripcion":"Entre noviembre de 2015 y enero de 2016 desempeñe tareas en el area de expedicion y calidad",
+     "logo":"assets/Tecno Sport.png"
+    },{
+     "empresa":"Cooperativa de Trabajo UsinaEco Limitada",
+     "descripcion":"Entre noviembre de 2020 y mayo de 2022 desempeñe tareas en el area de relaciones institucionales",
+     "logo":"assets/usinaeco.png"
+    },{
+     "empresa":"DNRPA",
+     "descripcion":"Desde mayo de 2022 hasta la actualidad, desempeñando tareas de administrativo",
+     "logo":"assets/dnrpa.png"
+    }
+    ],
+
+   "habilidades": [{
+    "lenguaje":"HTML",
+    "porcentaje":"80%",
+    "logo":"assets/html5-logo-24.png"
+  },{
+    "lenguaje":"CSS",
+    "porcentaje":"60%",
+    "logo":"assets/css3-logo-24.png"
+  },{
+    "lenguaje":"JS",
+    "porcentaje":"50%",
+    "logo":"assets/javascript-logo-24.png"
+  }],
+
+  "proyectos":[
+    {
+      "nombre":"Mi portfolio",
+      "descripcion":"Portfolio realizado como proyecto final del curso Argentina Programa.",
+      "fecha":"Fecha del proyecto : Julio 2022.",
+      "link":"https://github.com/leomacrini/portfolio-FrontEnd.git"
+    }
+  ]
+
+
+} 

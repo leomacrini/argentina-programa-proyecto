@@ -1,1 +1,110 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    background-image: linear-gradient(to top, #09203f 0%, #537895 100%);;
+    width: 100vw;
+    
+}
+.barranav {
+    position: fixed;
+    width: 100vw;
+    height: 60px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    color: rgb(93, 87, 87);
+    
+}
+.leyendanavbar {
+    color: rgb(93, 87, 87);
+    font-weight:bold; 
+    border-color: gray; 
+    border-radius: 2px;
+}
+.logonavbar {
+    border-radius:5px;font-family: Verdana, Times, serif; font-size: small;width: 100 px ; height:40px;
+}
+.contenedorimgs{
+    margin-top: 65px;
+    position:relative;
+}
+.bannerimg{
+    padding-top: 5PX;
+    height:70vh; 
+    width:100vw; 
+    position:absolute;
+}
+.perfilimg{
+    width: 200px;
+    height: auto;
+    border-radius: 100px;
+    margin-left: 80px;
+    margin-top:400px ;
+    position :absolute ;
+}
+.textos1{
+    padding-top: 615px;
+}
+
+.nombre{
+    background-image: linear-gradient(60deg, #29323c 0%, #485563 100%); border-radius: 5PX; height: 3em; margin-left: 35px;
+}
+.nombre h5{
+    font-family:'Josefin Sans', sans-serif; height: fit-content; background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+}
+.exper{
+    width: 60vw; background-image: linear-gradient(60deg, #29323c 0%, #485563 100%); margin-left: 10px;
+}
+h5 {
+    text-align: center;
+}
+
+.contenedor-exp{
+    margin-left: 5px ; 
+    padding-top:50px;
+     padding-left:85px;
+}
+.contenedor-exp h4{
+    background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);width: 20vw;
+}
+.exp2{
+    padding-top: 10px ; width: 75vw; margin-bottom: 15px; background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+}
+.textos-exp{
+    padding-top: 10px ;
+    width: 75vw;
+    margin-bottom: 15px;
+    background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+}
+.logo-exp{
+    width:100px;
+    border-style:solid;
+    border-color: black; 
+ }
+ .titulo-exp{
+    text-align: start;
+ }
+ .habilidades-titulo{
+    text-align: center; margin-top: 50px;
+ }
+ .habilidades-conteiner{
+    margin-top: 50px; margin-left:50px; margin-right:50px;
+ }
+ 
+ .logo-hab{
+    width: 30px;
+ }
+ .habfondo{background-image: linear-gradient(60deg, #29323c 0%, #485563 100%); }
+
+.proyectos-titulo{
+    margin:50px 50px 50px;
+    
+
+}
+.proyectc{
+    background-color: #485563;
+    margin:50px 50px 50px 50px ;
+    
+}
+.tooledit{
+    align-self: flex-end;
+   width: 20px;
+}

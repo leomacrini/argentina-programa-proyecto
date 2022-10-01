@@ -1,0 +1,15 @@
+<nav class="navbar navbar-light bg-dark row fixed-top barranav">
+    <div class="container-fluid col-xs-3">
+      <a class="navbar-brand leyendanavbar " href="#" >
+        <img [src]="miPortfolio.logo" class="d-inline-block align-text-center logonavbar">
+        {{miPortfolio.programa}}
+      </a>
+      <div class="col-xs-4">
+        <button type="button" id="editar" class="btn btn-secondary"><img [src]="miPortfolio.logoeditar" alt="">{{miPortfolio.textoboton}}</button>
+        <a href={{miPortfolio.redes.instalink}}><img [src]="miPortfolio.redes.instalogo" alt="paginainstagram"></a>
+        <a href={{miPortfolio.redes.facelink}}><img [src]="miPortfolio.redes.facelogo" alt="paginafacebook"></a>
+        <a href={{miPortfolio.redes.githublink}}><img [src]="miPortfolio.redes.githublogo" alt="paginagit"></a>
+    </div>  
+    </div>
+    
+  </nav>
